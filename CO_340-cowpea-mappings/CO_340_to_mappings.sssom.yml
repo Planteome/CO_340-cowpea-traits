@@ -1,0 +1,11 @@
+curie_map:
+  CO_340: https://cropontology.org/rdf/CO_340_
+  TO: http://purl.obolibrary.org/obo/TO_
+  skos: http://www.w3.org/2004/02/skos/core#
+license: https://creativecommons.org/licenses/by/4.0/
+mapping_provider: 
+mapping_set_group: cowpea_mappings
+mapping_set_id: co_340_to
+mapping_set_title: 'Cowpea Mappings: CO_340-TO'
+object_source: http://purl.obolibrary.org/to.owl
+subject_source: https://cropontology.org/ontology/CO_340/Cowpea/owl
